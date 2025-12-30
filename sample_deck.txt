@@ -1,0 +1,24 @@
+# Fantasy Card Deck
+# Enter one card name per line
+
+Goblin Scout
+Forest Sprite
+Stone Golem
+River Serpent
+Mountain Troll
+Desert Nomad
+Shadow Assassin
+Fire Elemental
+Ice Mage
+Thunder Knight
+Wind Dancer
+Earth Shaman
+Dragon Rider
+Phoenix Lord
+Crystal Guardian
+Demon Hunter
+Angel Warrior
+Void Walker
+Ancient Dragon
+God of Thunder
+Cosmic Entity
